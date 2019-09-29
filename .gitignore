@@ -1,0 +1,11 @@
+
+.idea/modules.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/python.iml
+.idea/vcs.xml
+.idea/workspace.xml
+venv/Lib/site-packages/easy-install.pth
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/dependency_links.txt
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/entry_points.txt
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/not-zip-safe
